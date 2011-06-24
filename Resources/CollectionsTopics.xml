@@ -1,0 +1,9 @@
+<Topic>
+    <Header>Collections</Header>
+    <FilesLocation>\Material\</FilesLocation>
+    <Titles>
+        <Title path="IntroToCollections">Introduction</Title>
+        <Title path="CollectionsEqualsExample.java">Threads</Title>
+        <Title path=" ">Exit</Title>
+    </Titles>
+</Topic>

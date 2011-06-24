@@ -1,0 +1,12 @@
+<Topic>
+    <Header>Threads</Header>
+    <FilesLocation>\Material\</FilesLocation>
+    <Titles>
+        <Title>Threads</Title>
+        <Title>Thread2</Title>
+        <Title>Exit</Title>
+    </Titles>
+    <Files>
+        <File>CollectionsEqualsExample.java</File>
+    </Files>
+</Topic>
